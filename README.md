@@ -244,4 +244,4 @@ adamya.tiwari2024@nst.rishihood.edu.in
 ---
 
 **Section D – Group 4**<br>
-Water Quality of Rivers
+Water Quality & Pollution Analysis
